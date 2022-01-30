@@ -1,6 +1,18 @@
-title: Minimal theme
+title: <p align="center"> Pruthvi Nagesh Portfolio</p>
 logo: /assets/img/My Photo 3.JPG
-description: Minimal is a theme for GitHub Pages.
+description: This Portfolio page of Pruthvi Nagesh.
 show_downloads: true
 google_analytics:
+
+description:
+  <p align="center">
+  <a href="https://github.com/pruthvipheonix">GitHub</a>
+  
+  <br>   
+  I'm working As a  Network and System Engineer in HPE(Aruba).
+  I Am handing SSP Projects At Aruba.
+  I Have Industrial Experience of 10 Years.
+  <br>
+  </p>
+
 theme: jekyll-theme-minimal
